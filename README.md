@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem Vindos ao meu perfil 🎀
 
-<!--
-**jjolyww/jjolyww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Joly Warcherski de Oliveira
 
-Here are some ideas to get you started:
+- Estou estudando na plataforma [Alura](https://www.alura.com.br/)
+- Me desenvolvendo na linguagem JavaScript.
+- Utilizarei essa plataforma para publicar meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Você pode entrar em contato comigo 
+  joly.oliveira@escola.pr.gov.br
+
+  teste
+
+  ![](https://tenor.com/pt-BR/view/rizzler-boom-rizzler-dance-costco-guys-rizzler-gif-10779807391660479783)
